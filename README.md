@@ -6,7 +6,6 @@ Exercise List
 Design a simple login screen
 
 
-
 3. Create a web page
 Create a web page similar to the given image
 
